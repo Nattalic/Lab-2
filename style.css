@@ -1,0 +1,13 @@
+/*general*/
+body {
+    font-family:"Poppins",sans-serif;
+    background-color: #fae6f0;
+    color: #210c2b;
+}
+
+/*header*/
+
+header{
+    background-color: pink;
+    text-align: center;
+}
